@@ -1,0 +1,18 @@
+<form method="POST" action="Mainpage.php">
+  	<?php include('errors.php');?>
+  	<div class="input-group">
+  		<label>Ingresar ID</label>
+  		<input type="text" name="id" >
+  	</div>
+  	<div class="input-group">
+  		<label>Contraseña</label>
+  		<input type="password" name="contraseña">
+  	</div>
+  	<div class="input-group">
+  		<button type="submit" class="btn" name="login_doc">Iniciar sesion</button>
+  	</div>
+	</form>
+	<p>
+    ¿Aun no estas registrado? 
+	</p>
+	<button id="Return3" name="docsing.txt" class="Button">Registrate</button>
