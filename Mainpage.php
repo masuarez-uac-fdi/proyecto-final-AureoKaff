@@ -28,7 +28,6 @@
                 <button id="Alumno" name="alumlog.txt" class="Button">Alumno</button>
             </div>
         </div>
-        
     </section>
     <script type="text/javascript">
         var n ="";
