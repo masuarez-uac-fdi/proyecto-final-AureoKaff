@@ -6,7 +6,7 @@ $username = "";
 
 
 $errors = array(); 
-$db = mysqli_connect('localhost', 'admin', 'admin', 'cisco');
+$db = mysqli_connect('localhost', 'localuser', 'admin', 'cisco');
 
 if (isset($_POST['sing_doc'])) {
   $id = mysqli_real_escape_string($db, $_POST['id']);
