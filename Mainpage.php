@@ -28,6 +28,7 @@
                 <button id="Alumno" name="alumlog.txt" class="Button">Alumno</button>
             </div>
         </div>
+        <a href="database_info.html">Diseño de la base de datos</a>
     </section>
     <script type="text/javascript">
         var n ="";
